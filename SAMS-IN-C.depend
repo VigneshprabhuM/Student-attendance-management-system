@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1625819901 source:c:\users\adones\desktop\code blocks\sams-in-c\main.c
+	<stdio.h>
+	<stdbool.h>
+	"struct_header.h"
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<unistd.h>
+
+1544624354 c:\users\adones\desktop\code blocks\sams-in-c\struct_header.h
+
